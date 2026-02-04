@@ -1,0 +1,6 @@
+projectKey=Proyecto-MAThomas
+serverUrl=http://localhost:9000
+serverVersion=26.1.0.118079
+dashboardUrl=http://localhost:9000/dashboard?id=Proyecto-MAThomas
+ceTaskId=22022fc5-6e91-4558-b63f-d8ee53f01273
+ceTaskUrl=http://localhost:9000/api/ce/task?id=22022fc5-6e91-4558-b63f-d8ee53f01273
